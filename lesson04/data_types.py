@@ -3,8 +3,8 @@ import math
 
 # literal assignment
 
-first = "Dave"
-last = "Gray"
+first = "Gopi"
+last = "Saravanan"
 
 # print(type(first))
 # print(type(first) == str)
